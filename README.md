@@ -17,3 +17,13 @@ Cybersecurity involves multiple layers of protection spread across the computers
 - **Disaster Recovery & Business Continuity** – Responding to and recovering from cyber incidents.
 - **End-user Education** – Training users to recognize threats like phishing and social engineering.
 
+### 🗂️ Notes by Day
+
+Browse the day-wise notes and topics covered during the course:
+
+- [Day 01 – Introduction to Cybersecurity & Ethical Hacking](./Day-01/README.md)
+- [Resources – Tools, Glossary & References](./Resources/tools-and-references.md)
+
+> 📌 _Click on the links to read each day's content directly on GitHub._
+
+
