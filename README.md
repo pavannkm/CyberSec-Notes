@@ -17,5 +17,3 @@ Cybersecurity involves multiple layers of protection spread across the computers
 - **Disaster Recovery & Business Continuity** – Responding to and recovering from cyber incidents.
 - **End-user Education** – Training users to recognize threats like phishing and social engineering.
 
-## 📘 Repository Structure (Example)
-
