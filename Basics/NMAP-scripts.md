@@ -1,4 +1,4 @@
-# 🛠️ Nmap Command Reference Guide
+# 🛠️ Nmap Commands
 
 ---
 
