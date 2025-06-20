@@ -1,6 +1,6 @@
 # 🛡️ Day 01: Introduction to Cybersecurity & Ethical Hacking
 
-Welcome to **Day 01** of our Cybersecurity journey! These notes are written based on session taught by [Vaishnavu Sir](https://github.com/vaishnavucv).
+Welcome to **Introduction!** These notes are written based on session taught by [Vaishnavu Sir](https://github.com/vaishnavucv).
 
 
 ## 📌 What is Cybersecurity?
