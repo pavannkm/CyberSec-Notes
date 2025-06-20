@@ -1,7 +1,7 @@
 ---
 
 ### **1. Target Specification**
-- `-iL <inputfilename>`: Input list of IPs/hosts/networks from file.
+- `-iL (example.txt)`: Input list of IPs/hosts/networks from file.
 
 ---
 
