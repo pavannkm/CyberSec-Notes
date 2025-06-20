@@ -20,7 +20,7 @@ Cybersecurity involves multiple layers of protection spread across the computers
 ### 🗂️ Quick links
 Browse the day-wise notes and topics covered during the course:
 
-- [Introduction to Cybersecurity & Ethical Hacking](./Basics/introduction.md)
+- [Introduction to Cybersecurity & Ethical Hacking](./Basics/Introduction.md)
 - [Resources – Tools, Glossary & References](./Resources/tools-and-references.md)
 
 > 📌 _Click on the links to read each day's content directly on GitHub._
